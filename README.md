@@ -8,11 +8,12 @@
 
 - I'm currently learning **React**
 
-- ?’¬ Ask me about **web Technologies**
+- Ask me about **web Technologies**
 
-- ?“« How to reach me **abdallahmahmoudnoby@gmail.com**
+- How to reach me **abdallahmahmoudnoby@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+abdallahmahmoudnoby@gmail.com
 <p align="left">
 </p>
 
